@@ -1,3 +1,3 @@
 # slacktagcloud
 
-make tag cloud image for a slack channel
+Make tag cloud image for a slack channel
